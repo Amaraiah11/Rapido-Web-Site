@@ -1,7 +1,7 @@
 # 🛵 Rapido Web Platform — Full-Stack Ride Hailing Frontend & Case Study
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1C1917,D97706,F59E0B&height=220&section=header&text=Rapido%20Web%20Platform&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Ride-Hailing%20Frontend%20Clone%20%26%20Architectural%20Case%20Study&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Rapido Web Platform Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,50:D97706,100:F59E0B&customColorList=1C1917,D97706,F59E0B&height=220&section=header&text=Rapido%20Web%20Platform&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Ride-Hailing%20Frontend%20Clone%20%26%20Architectural%20Case%20Study&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Rapido Web Platform Banner" />
 </p>
 
 <p align="center">
@@ -151,5 +151,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1C1917,D97706,F59E0B&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,50:D97706,100:F59E0B&customColorList=1C1917,D97706,F59E0B&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
